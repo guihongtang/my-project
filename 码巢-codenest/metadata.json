@@ -1,0 +1,6 @@
+{
+  "name": "码巢 CodeNest",
+  "description": "融合创新蜂窝项目驱动理念的全栈开发实操与AI智能交互沙盒平台",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
