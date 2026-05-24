@@ -1,0 +1,6 @@
+{
+  "name": "灰烬纪元：命运之路",
+  "description": "Ash Epoch: Path of Fate - A medieval western fantasy turn-based tactical RPG featuring deep grid battles, race selection, class progression, and relationship simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
